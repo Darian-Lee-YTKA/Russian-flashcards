@@ -91,19 +91,33 @@ need to add:
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+I will add one that lets you go to:
+add card
+view cards
+practice
+get suggestions
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
-* ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
-
+- [ ] main
+* add card
+* view cards
+* practice
+* get suggestions
+- [ ] add card
+* get suggestions
+* confirmation
+- [ ] confirmation
+* view cards
+* main
+* practice
+- [ ] practice
+* view cards
+* main
+- [ ] edit
+* view cards
+* main
+  
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
