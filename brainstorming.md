@@ -1,4 +1,5 @@
-**NOTE: I am doing this after I have already spent the past 48 hours getting decently far along on my app, so brainstroming 6 other ideas feels kind of silly**
+##NOTE: I am doing this after I have already spent the past 48 hours getting decently far along on my app, so brainstroming 6 other ideas feels kind of silly
+
 but I will do it for the points:
 
 
