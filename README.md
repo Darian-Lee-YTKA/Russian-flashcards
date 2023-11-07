@@ -68,8 +68,8 @@ need to add:
 * confirmation
 * view cards screen
  <img src="Screenshot 2023-11-06 at 11.06.42 PM.png" width="300">
-
 * edit card screen
+  <img src="Screenshot 2023-11-06 at 11.06.34 PM.png" width="300">
 * Preview screen
  <img src="Screenshot%202023-11-06%20at%2011.06.48%20PM.png" width="300">
 
