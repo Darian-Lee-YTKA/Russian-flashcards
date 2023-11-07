@@ -121,12 +121,14 @@ get suggestions
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="drawing.jpg" width=600>
+
 
 ### [BONUS] Digital Wireframes & Mockups
+<img src="Screenshot 2023-11-06 at 11.33.44 PM.png" width=600>
 
 ### [BONUS] Interactive Prototype
-
+<img src="ef142eb1-4a2c-4547-b2ae-d20e557c9ee3.gif" width=300>
 ## Schema 
 
 [This section will be completed in Unit 9]
