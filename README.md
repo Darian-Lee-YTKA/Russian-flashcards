@@ -63,8 +63,13 @@ need to add:
 ### 2. Screen Archetypes
 
 * I couldn't wait and already got started on my app! Here are the screens I have so far
+* main screen
+* add card screen
+* confirmation
+* view cards screen
+* edit card screen
 * Preview screen
-* ![Preview screen](Screenshot%202023-11-06%20at%2011.06.48%20PM.png)
+ <img src="Screenshot%202023-11-06%20at%2011.06.48%20PM.png" width="300">
 
 ### 3. Navigation
 
