@@ -65,6 +65,7 @@ need to add:
 * I couldn't wait and already got started on my app! Here are the screens I have so far
 * main screen
 * add card screen
+  <img src="Screenshot 2023-11-06 at 11.06.04 PM.png" width="300">
 * confirmation
 <img src="Screenshot 2023-11-06 at 11.06.11 PM.png" width="300">
 * view cards screen
