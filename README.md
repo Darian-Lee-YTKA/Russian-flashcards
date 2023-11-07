@@ -66,6 +66,7 @@ need to add:
 * main screen
 * add card screen
 * confirmation
+<img src="Screenshot 2023-11-06 at 11.06.11 PM.png" width="300">
 * view cards screen
  <img src="Screenshot 2023-11-06 at 11.06.42 PM.png" width="300">
 * edit card screen
