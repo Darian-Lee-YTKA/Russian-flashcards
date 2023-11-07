@@ -10,6 +10,7 @@ Story: The story is about enhancing the efficiency of zoo management, animal car
 Market: The market includes zoo professionals, animal educators, and conservationists.
 Habit: Zookeepers would frequently use the app for daily animal care and management tasks.
 Scope: The technical challenge lies in real-time animal tracking. A basic version would still be helpful for zoo professionals.
+
 2. Educational Nature Explorer
 
 Category: Education & Environmental Studies
