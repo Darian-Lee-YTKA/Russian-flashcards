@@ -31,8 +31,12 @@ Scope: The app's technical challenge is in real-time communication and event log
 
 4. Russian Flash card app (the one I'm actually working on
 
-Category: Education & Language Learning
-SEE README 
+Category: Education
+Mobile: It is more than a glorified website because it allows you to do flashcards anywhere. I may add the ability to take photos and add them to the flashcards. I think this would be useful for those who do not have a Russian keyboard. The rest are not applicable though to the goals of the app
+Story: For serious language learners this app is a huge time saver. I spend over 4 hours a day making and reviewing flashcards for my target languages, and so much of that time is spent searching for suitable sentences and new words. Thus the ability to get suggestions of high quality sentences and autofill translations would probably reduce my time spent by about an hour.
+Market: Serious language learners or anyone learning Russian. The app works with any language, but the suggestions and autofill translations will only work with Russian. Also, the suggestions are more applicable for learners at the advanced level. Maybe later on I will find a corpus with simplier sentences and use it to make suitable suggestions for all levels
+Habit: Most language learners use flashcard apps daily or close to daily. The idea is that since you are putting in the work to make the flashcards, you will use them frequently. But I might add some extra incentive like having the user set a goal for how many cards to review a day
+Scope: I decided to start building the app before filling out the readme file just to get a sense for how achievable my goals will be. I would say I am about 1/3 of the way done with my app and am very confident in being able to get the rest of the 2/3rds done. If I am unable to connect my swift code to the python files, even a version with just the basic flashcards will still be a useful app.
 
 5. Art Education Guide
 
