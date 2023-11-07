@@ -63,7 +63,8 @@ need to add:
 ### 2. Screen Archetypes
 
 * I couldn't wait and already got started on my app! Here are the screens I have so far
-* 
+* Preview screen
+* ![Preview screen](Screenshot%202023-11-06%20at%2011.06.48%20PM.png)
 
 ### 3. Navigation
 
