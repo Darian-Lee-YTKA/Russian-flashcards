@@ -64,15 +64,20 @@ need to add:
 
 * I couldn't wait and already got started on my app! Here are the screens I have so far
 * main screen
-  <img src="Screenshot 2023-11-06 at 11.05.43 PM.png" width="300">
+<img src="Screenshot 2023-11-06 at 11.05.43 PM.png" width="300">
+
 * add card screen 
 <img src="Screenshot 2023-11-06 at 11.06.04 PM.png" width="300">
+
 * confirmation
 <img src="Screenshot 2023-11-06 at 11.06.11 PM.png" width="300">
+
 * view cards screen
  <img src="Screenshot 2023-11-06 at 11.06.42 PM.png" width="300">
+ 
 * edit card screen
   <img src="Screenshot 2023-11-06 at 11.06.34 PM.png" width="300">
+  
 * Preview screen
  <img src="Screenshot%202023-11-06%20at%2011.06.48%20PM.png" width="300">
 
