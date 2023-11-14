@@ -95,7 +95,7 @@ need to add:
 
 * practice screens
 
-  
+<img src="Screenshot 2023-11-13 at 7.21.05 PM.png" width="800">
 
 * card selector screen
   
