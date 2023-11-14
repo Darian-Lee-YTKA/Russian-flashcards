@@ -94,8 +94,10 @@ need to add:
 <img src="Screenshot%202023-11-06%20at%2011.06.48%20PM.png" width="300">
 
 * practice screens
+  
 
 <img src="Screenshot 2023-11-13 at 7.21.05 PM.png" width="800">
+
 
 * card selector screen
   
