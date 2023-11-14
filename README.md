@@ -163,5 +163,77 @@ get suggestions
 ### Networking
 
 - [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- API to app.py python code using fast API
+API call: func translateText(with text: String, completion: @escaping (String?) -> Void) {
+        // Define the URL
+        let url = URL(string: "http://127.0.0.1:5000/translate")!
+
+        // Create the request
+        var request = URLRequest(url: url)
+        request.httpMethod = "POST"
+        request.addValue("application/json", forHTTPHeaderField: "Content-Type")
+
+        // Create the JSON payload
+        let payload: [String: String] = ["text": text]
+
+        do {
+            // Convert the payload to JSON data
+            let jsonData = try JSONSerialization.data(withJSONObject: payload, options: [])
+
+            // Attach the JSON data to the request
+            request.httpBody = jsonData
+        } catch {
+            print("Error converting payload to JSON: \(error)")
+            completion(nil)
+            return
+        }
+
+        // Perform the request
+        let task = URLSession.shared.dataTask(with: request) { data, response, error in
+            if let error = error {
+                print("Error: \(error)")
+                completion(nil)
+                return
+            }
+
+            // Check if there is data
+            guard let data = data else {
+                print("No data received.")
+                completion(nil)
+                return
+            }
+
+            do {
+                // Parse the JSON response
+                let jsonResponse = try JSONSerialization.jsonObject(with: data, options: []) as? [String: Any]
+
+                // Handle the response
+                if let translation = jsonResponse?["translation"] as? String {
+                    completion(translation)
+                } else {
+                    print("Unexpected response format.")
+                    completion(nil)
+                }
+            } catch {
+                print("Error parsing JSON response: \(error)")
+                completion(nil)
+            }
+        }
+
+        // Start the task
+        task.resume()
+        
+    }
+    
+
+}
+
+## Updates and reflection on progress:
+  Things added:
+  * machine translation
+  * practice screens
+  * card selector
+  * card checker that tells you specifically what you got wrong
+  * ability to take a photo and have it featured on the app (not avaliable in simulator, but the code should work on an actual app
+reflection:
+Getting the API connected was very time consuming. I initially was trying to use google collab for it, but it kept not working no matter what I tried. I also tried using pythonkit in swift, which is why you see all the python files included, but those didn't work either. Finally once I put the code on my local machine using fast API and it started to work
