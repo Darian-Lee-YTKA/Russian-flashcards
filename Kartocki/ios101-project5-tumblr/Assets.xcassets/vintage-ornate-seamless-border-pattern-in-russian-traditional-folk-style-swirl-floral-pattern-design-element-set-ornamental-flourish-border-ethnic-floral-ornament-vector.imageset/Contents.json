@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "vintage-ornate-seamless-border-pattern-in-russian-traditional-folk-style-swirl-floral-pattern-design-element-set-ornamental-flourish-border-ethnic-floral-ornament-vector.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
