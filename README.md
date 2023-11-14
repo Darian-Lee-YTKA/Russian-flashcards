@@ -12,6 +12,9 @@ Original App Design Project - README Template
 
 ## Overview
 
+## Full demo:
+<img src="UpdatedDemo.gif" width=300>
+
 ### Description
 
 A flashcard app for learning Russian with the additional feature of porviding suggestion sentences for new cards. The suggestions are generated from a 100K sentence corpus of Russian sentences and translated using the  MarianMTModel transformer (see python files attached)
@@ -23,14 +26,17 @@ already added:
 [x] view flashcards as list
 [x] search for cards
 [x] preview cards
+[x] answer checker that specifically shows which parts are wrong 
+[x] autofill in flashcards using translation via API call to python file with MarianMTModel installed 
 [x] functions for getting random sentences from corpus and for translating them (not yet connected to app, but I have the code written)
-
+[x] select the cards you would like to practice 
+[x] a practice view that keeps track of your score and porvides modivation
+[x] allows user to take photo at end 
 
 need to add:
-[] autofill in flashcards using translation via API call to python file with MarianMTModel installed 
+
 [] suggest sentences from the 100K sentence corpus in the "get ideas" view controller
-[] select the cards you would like to practice 
-[] a practice view that keeps track of your score and porvides modivation
+
 
 ### App Evaluation
 
@@ -87,6 +93,11 @@ need to add:
   
 <img src="Screenshot%202023-11-06%20at%2011.06.48%20PM.png" width="300">
 
+* practice screens
+
+* card selector screen
+* 
+
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
@@ -130,6 +141,9 @@ get suggestions
 ### [BONUS] Interactive Prototype
 <img src="ef142eb1-4a2c-4547-b2ae-d20e557c9ee3.gif" width=300>
 ## Schema 
+
+## [most up to date prototype]
+<img src="UpdatedDemo.gif" width=300>
 
 [This section will be completed in Unit 9]
 
