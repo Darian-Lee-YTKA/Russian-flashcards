@@ -95,8 +95,13 @@ need to add:
 
 * practice screens
 
+  
+
 * card selector screen
-* 
+  
+<img src="Screenshot 2023-11-13 at 7.21.23 PM.png" width="300">
+
+  
 
 ### 3. Navigation
 
