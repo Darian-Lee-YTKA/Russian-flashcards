@@ -14,6 +14,7 @@ Original App Design Project - README Template
 
 ## Full demo:
 (this may take up to 10 seconds to load. Please be paitent)
+
 <img src="UpdatedDemo.gif" width=300>
 
 ### Description
